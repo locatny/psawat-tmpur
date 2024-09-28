@@ -134,4 +134,10 @@ if __name__ == "__main__":
     # Mengurangi kecepatan pesawat sebanyak 50 km/jam
     kurangi_kecepatan(pesawat_tempur, 50)
     cetak_kondisi_pesawat(pesawat_tempur)  # Cetak kondisi setelah mengurangi kecepatan
-    
+
+# Hasil Output Pesawat Tempur
+![](kpt3.png)
+
+![](kpt1.png)
+
+![](kpt2.png)
